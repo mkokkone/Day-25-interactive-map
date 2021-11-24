@@ -25,12 +25,12 @@ div.tooltip {
     position: absolute;
 
     text-align: left;			
-    width: 380px;					
-    height: 389px;					
+    width: 200px;					
+    height: 40px;					
     padding: 2px;				
     font: 14px sans-serif;		
     background: black;	
-    border: 2px;		
+    border: 6px;		
     border-radius: 8px;			
     pointer-events: none;
 
@@ -456,7 +456,7 @@ var dataFilter = data.map(function(d){return {kuva: d.kuva, name: d.name, xk: d.
 
 	//.force("y", d3.forceY(width/2).strength(0.05))
 	.force("collide", d3.forceCollide(function(d){
-		return radiusScale(d.value)+1;
+		return radiusScale(d.value)+0;
 	}))
 
 

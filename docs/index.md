@@ -388,7 +388,7 @@ var dataFilter = data.map(function(d){return {kuva: d.kuva, name: d.name, xk: d.
 	.attr("xlink:href","IMG_20210707_1458482.jpg")
 
 //skaalataan pallojen koko
-	var radiusScale = d3.scaleSqrt().domain([1,1000]).range([1,100])	
+	var radiusScale = d3.scaleSqrt().domain([1,1000]).range([5,50])	
 	
 	//var forceY = d3.forceY(height/2).strength(0.05)
 	

@@ -488,8 +488,8 @@ var dataFilter = data.map(function(d){return {kuva: d.kuva, name: d.name, xk: d.
 		tooltip
 	    
         
-		 .style("left", (d3.mouse(this)[0]+100) + "px")
-		 .style("top", (d3.mouse(this)[1]+350) + "px")
+		 .style("left", (d3.mouse(this)[0]+10) + "px")
+		 .style("top", (d3.mouse(this)[1]+10) + "px")
 
 
 		  

@@ -455,7 +455,7 @@ var dataFilter = data.map(function(d){return {kuva: d.kuva, name: d.name, xk: d.
 
 	//.force("y", d3.forceY(width/2).strength(0.05))
 	.force("collide", d3.forceCollide(function(d){
-		return radiusScale(d.value)+0;
+		return radiusScale(d.value)+1;
 	}))
 
 

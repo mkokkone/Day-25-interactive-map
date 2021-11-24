@@ -630,7 +630,7 @@ function vaihdaluku(color){
 </div>
 
 </body>
-### Game animal collisions in mainland Finland, year 2020
+### Game animal collisions in Mainland Finland, year 2020
 
 Most of the game animal collisions in 2020 happened in the regions of Southwest Finland, Uusimaa and  ja Pirkanmaa. In these regions happened more than half of the game animal collisions. The Amount of game animal collision in the Eastern and Northern Finland are a fraction of the amount of accidents in Soutwest and Southern Finland. Collisions with Reindeers are not presented in this figure. Collisions with reindeers amounted 4601 in 2020 according to [varporoa.fi](http://www.varoporoa.fi/stats/stats_table?year=2020).
 

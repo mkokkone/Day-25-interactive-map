@@ -641,8 +641,8 @@ This visualisation was originally produced for the internal hackathon in Statist
 
 Members in the hackathon team from Statistics Finland were:
 
-Katja Löytynoja
-Matti Kokkonen
-Mervi Niemi
+*Katja Löytynoja
+*Matti Kokkonen
+*Mervi Niemi
 
 

@@ -7,7 +7,7 @@
 
 Data is collected from [Game animal collision statistics](https://www.stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/2020/index.html) produced by Statistics Finland. The figures are on municipality level and they represent year 2020.
 
-The Game animal statistics has information about collisions with with white-tailed deers, roe reeds, elks, Finnish forest reindeer, wild boars and fallow deers. From the figure below you can check which game animal causes the most accidents in each of the municipalities in Mainland Finland. Below are picture and name of the each of the game animals presented in the figure. 
+The Game animal statistics has information about collisions with with white-tailed deers, roe reeds, elks, finnish forest reindeer, wild boars and fallow deers. From the figure below you can check which game animal causes the most accidents in each of the municipalities in Mainland Finland. Below are picture and name of the each of the game animals presented in the figure. 
 
 <img src="pjimage.jpg" alt="Five game animals that cause the majority of the accidents: white-tailed deers, roe reeds, elks, Finnish forest reindeer, wild boars ">
 

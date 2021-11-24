@@ -475,7 +475,7 @@ var dataFilter = data.map(function(d){return {kuva: d.kuva, name: d.name, xk: d.
 		  .duration(200)
 		tooltip
 		  .style("opacity", 1)
-	.html("<b>" +d.name+"</b> + "<br> Number of accidents: " + d.onn)	       
+	.html("<b>" +d.name+"</b>" + "<br> Number of accidents: " + d.onn)	       
 		.style("left", (d3.mouse(this)[0]+100) + "px")
 		.style("top", (d3.mouse(this)[1]+350) + "px")
 		//.style("left", (d3.mouse(this)[0]+10) + "px")
@@ -641,8 +641,8 @@ This visualisation was originally produced for the internal hackathon in Statist
 
 Members in the hackathon team from Statistics Finland were:
 
-*Katja Löytynoja
-*Matti Kokkonen
-*Mervi Niemi
+* Katja Löytynoja
+* Matti Kokkonen
+* Mervi Niemi
 
 

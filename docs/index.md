@@ -55,8 +55,8 @@ div.tooltip {
 <script>
 
 //(function test () {
-	var width = 900,
-	height=900;
+	var width = 700,
+	height=700;
 //data
 	var data = [
 {id:'i1', name: 'Akaa', onn:160, onnkvl:66.3625051845707, xk:303.238349769901, yk:571.846271456827, maakunta: '06' ,kuva: 'kuvat/valkohantapeura.png' ,kaavio: 'kaaviot/Akaa.png', altt:'Kunnassa Akaa tapahtui vuonna 2020 yhteensä 160 riistaonnettomuutta. Eniten kolareita aiheutti Valkohäntäpeura.' },

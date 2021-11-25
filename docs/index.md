@@ -5,9 +5,9 @@
 
 ### Which game animal are you most likely to collide with in Mainland Finland?
 
-Data is collected from [Game animal collision statistics](https://www.stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/2020/index.html) produced by Statistics Finland. The figures are on municipality level and they represent year 2020.
+Data is collected from [Game animal collision statistics](https://www.stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/2020/index.html) produced by Statistics Finland. The figures are on a municipality level and they represent the year 2020.
 
-The Game animal statistics has information about collisions with with white-tailed deers, roe reeds, elks, finnish forest reindeer, wild boars and fallow deers. From the figure below you can check which game animal causes the most accidents in each of the municipalities in Mainland Finland. Below are picture and name of the each of the game animals presented in the figure. 
+The Game animal statistics has information about collisions with white-tailed deer, roe reed, elks, finnish forest reindeer, wild boars and fallow deer. From the figure below you can check which game animal causes most of the accidents in each of the municipalities in Mainland Finland. Below are a picture and a name of each of the game animals presented in the figure.
 
 <img src="pjimage.jpg" alt="Five game animals that cause the majority of the accidents: white-tailed deers, roe reeds, elks, Finnish forest reindeer, wild boars ">
 
@@ -631,13 +631,12 @@ function vaihdaluku(color){
 
 </body>
 ### Game animal collisions in Mainland Finland, year 2020
+Most of the game animal collisions in 2020 happened in the regions of Southwest Finland, Uusimaa and Pirkanmaa. In these regions happened more than half of the game animal collisions. The Amount of game animal collision in the eastern and northern Finland are a fraction of the amount of accidents in soutwest and southern Finland. Collisions with reindeers are not presented in this figure. Collisions with reindeer amounted 4601 in 2020 according to [varoporoa.fi](http://www.varoporoa.fi/stats/stats_table?year=2020).
 
-Most of the game animal collisions in 2020 happened in the regions of Southwest Finland, Uusimaa and  ja Pirkanmaa. In these regions happened more than half of the game animal collisions. The Amount of game animal collision in the Eastern and Northern Finland are a fraction of the amount of accidents in Soutwest and Southern Finland. Collisions with Reindeers are not presented in this figure. Collisions with reindeers amounted 4601 in 2020 according to [varporoa.fi](http://www.varoporoa.fi/stats/stats_table?year=2020).
-
-There was in total 14 004 game animal collisions in Mainland Finland in 2020. There was 7 525 collisions with white-tailed deers, 5 094 collisions with roe deers and collisions with elks 1 527.  Collisions with finnish forest reindeers, wild boars and fallow deers amounted 131 in 2020.
+There was in total 14 004 game animal collisions in Mainland Finland in 2020. There were 7 525 collisions with white-tailed deer, 5 094 collisions with roe deer and collisions with elk amounted to 1 527.  Collisions with finnish forest reindeer, wild boars and fallow deer amounted to 131 in 2020.
 
 ### Visualisation
-This visualisation was originally produced for the internal hackathon in Statistics Finland . It is built with D3js-javascript-library. 
+This visualization was originally produced for the internal hackathon in Statistics Finland. It is built with D3js-javascript-library. 
 
 Members in the hackathon team from Statistics Finland were:
 

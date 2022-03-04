@@ -19,7 +19,7 @@ Put your mouse cursor on top of the bubbles or on mobile phone touch them with y
 
  <style>
 svg {
-  background: url('https://www.google.nl/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png') no-repeat;
+  background: url('kuvat/maakunta700.png') no-repeat;
 }
 
 div.tooltip {	
